@@ -1,0 +1,29 @@
+.presentacion{
+    background-color: antiquewhite;
+    text-align: center;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.carousel-item {
+    height: 80vh;
+    min-height: 300px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.card{
+    border-color: transparent;
+    padding: 10px;
+    background-color: transparent;
+}
+
+#espacio-imagen{
+    width: auto;
+    border-radius: 4%;  
+}
+
+

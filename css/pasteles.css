@@ -1,0 +1,82 @@
+.card{
+    border-color: #594A47;
+    padding: 10px;
+    background-color: transparent;
+}
+
+#elementos{
+    display: inline-flex;
+}
+
+.alert{
+    background-color: transparent;
+}
+
+.btn{
+    background-color: transparent;
+    
+}
+
+.btn:hover{
+    background-color: #BBBBBB;
+    transform: scale(1.2);
+}
+
+
+#botones{
+    position: absolute;
+    margin-left: 200px;
+}
+
+#espacio-imagen{
+    width: auto;
+    border-radius: 4%;  
+}
+
+#crea-tu-pastel{
+    background-color: transparent;
+    border-radius: 2%;
+}
+
+h1, h2, h3{
+    color: #594A47;
+    font-family: monospace;
+}
+
+p{
+    color: #594A47;
+    font-family: monospace;
+    font-size: 20px;
+}
+
+label{
+    color: #594A47;
+    font-family: monospace;
+    font-size: 20px;
+    margin-left: 30px;
+}
+
+.escoge-pastel{
+    right: auto;
+    align-items: flex-end;
+}
+
+.form-control{
+    width: 50%;
+    margin-left: 30px;
+}
+
+.form-check{
+    margin-left: 30px;
+}
+
+.form-select{
+    background-color: #BBBBBB;
+    width: auto;
+    margin-left: 30px;
+}
+
+.redes-sociales{
+    margin-left: 70%;
+    display: inline-block;
+}
